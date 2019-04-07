@@ -18,8 +18,8 @@ onCreat（）；onStart（）；onRestart（）；onResume（）；onPause（）
   到此Activity的一个生命周期就结束了，只有重启才能开始下一个生命周期。
 测试Activity的生命周期可以通过重写父类的方法，设置log日志，在调试的时候能够通过日志，看到Activity的状态。
 以下为测试截图：
-[https://raw.githubusercontent.com/695400861/Activitylife/master/image/2%7DV%60X94%7DL%7B%40NDVNLH%25VXK_W.png]
-[https://raw.githubusercontent.com/695400861/Activitylife/master/image/%5DT65YF8~LB(DX8%24%60%25%5D%40GFZT.png]
+![https://raw.githubusercontent.com/695400861/Activitylife/master/image/2%7DV%60X94%7DL%7B%40NDVNLH%25VXK_W.png]
+![https://raw.githubusercontent.com/695400861/Activitylife/master/image/%5DT65YF8~LB(DX8%24%60%25%5D%40GFZT.png]
 
 
 
